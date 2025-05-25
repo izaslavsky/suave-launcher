@@ -66,7 +66,7 @@ st.markdown(f"""
     <div class='card'>
         <div style='font-size: 1.1em;'>📊 Spatial Statistics</div>
         <div style='font-size: 0.9em; margin-top: 0.5em;'>Geographically-Weighted Regression with Residuals and Autocorrelation Measures</div>
-        <a href="https://suave-spatial.streamlit.app/?{param_str}" target="_blank">Launch</a>
+        <a href="https://suave-spatial-gwr.streamlit.app/?{param_str}" target="_blank">Launch</a>
     </div>
 </div>
 """, unsafe_allow_html=True)
